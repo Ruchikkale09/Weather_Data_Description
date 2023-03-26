@@ -1,5 +1,5 @@
-1. clone/Download repository into your local
-2. Unzip folder first and again in the folder we have one more zip files unzip that both also
+1. Download Weather_Data_Description-main.zip file
+2. Unzip file 
 3. open folder in visual studio Code
 
 I am using SQLite database for this project so SQLite database software is also neccessary over here
