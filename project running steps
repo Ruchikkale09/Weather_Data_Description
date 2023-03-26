@@ -1,5 +1,5 @@
 1. clone/Download repository into your local
-2. Unzip folder first and again in the folder we have two more zip files unzip that both also
+2. Unzip folder first and again in the folder we have one more zip files unzip that both also
 3. open folder in visual studio Code
 
 I am using SQLite database for this project so SQLite database software is also neccessary over here
@@ -7,6 +7,11 @@ once we completed follow next steps to solve problems
 
 Executing problem 1 and 2 :-
 step 1 :- cd Weather_Data_Description-main
-step 2 :- pip install -r requirements.txt
-step 3
+step 2 :- cd problem
+step 3 :- cd venv
+step 4 :- pip install -r requirement.txt
+step 4 :- python problem1_2.py
+step 5 :- python problem3.py
+step 6 :- python problem4.py
+
 
