@@ -1,0 +1,7 @@
+flask
+flask-restful 
+sqlalchemy
+sqlalchemy.orm
+sqlite3
+sqlalchemy.ext.declarative
+flask_paginate
